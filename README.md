@@ -6,11 +6,11 @@ Here are my solutions and progress for [Advent of Code 2025](https://adventofcod
 
 ## Progress Overview
 
-**1/24 ⭐ collected** (4% complete)
+**2/24 ⭐ collected** (8% complete)
 
 ```diff
          ____           *                               
-________/O___\__________|________________________   1 ⭐
+________/O___\__________|________________________   1 ⭐⭐
    _______||_________                                   
    | _@__ || _o_    |_ _________________________    2 
    |_&_%__||_oo__^=_[ \|     _    .. .. ..     |        
@@ -40,7 +40,7 @@ _________||______ ______________________________   10
 
 | Day | Part 1 | Part 2 | Solution | Completed On |
 |-----|:------:|:------:|----------|--------------|
-| 1 | ⭐ | ⬜ | [Python](./day01/solution.py) | Dec 25, 2025 |
+| 1 | ⭐ | ⭐ | [Python](./day01/secretEntrance.py) | Dec 26, 2025 |
 
 
 ## Repository Structure
@@ -64,7 +64,7 @@ _________||______ ______________________________   10
 Each day's solution can be run independently:
 
 ```bash
-py day 1/solution.py
+py day X/solutionFile.py
 ```
 
 ## About Advent of Code
@@ -74,10 +74,10 @@ py day 1/solution.py
 ## Stats
 
 - **Language:** Python
-- **Stars Collected:** 1/24 ⭐
-- **Days Completed:** 0/12 (1 part completed)
-- **Current Streak:** 🔥 1 day
+- **Stars Collected:**21/24 ⭐
+- **Days Completed:** 1/12
+- **Current Streak:** 🔥 2 day
 
 ---
 
-⭐ **Latest Update:** Day 1, Part 1 completed on December 25, 2025
+⭐ **Latest Update:** Day 1, part 2 completed on December 26, 2025
