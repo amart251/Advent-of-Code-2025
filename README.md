@@ -6,13 +6,13 @@ Here are my solutions and progress for [Advent of Code 2025](https://adventofcod
 
 ## Progress Overview
 
-**2/24 ⭐ collected** (8% complete)
+**4/24 ⭐ collected** (17% complete)
 
 ```diff
          ____           *                               
 ________/O___\__________|________________________   1 ⭐⭐
    _______||_________                                   
-   | _@__ || _o_    |_ _________________________    2 
+   | _@__ || _o_    |_ _________________________    2 ⭐⭐
    |_&_%__||_oo__^=_[ \|     _    .. .. ..     |        
                      \_]__--|_|___[]_[]_[]__//_|    3 
                                ____________//___        
@@ -40,14 +40,15 @@ _________||______ ______________________________   10
 
 | Day | Part 1 | Part 2 | Solution | Completed On |
 |-----|:------:|:------:|----------|--------------|
-| 1 | ⭐ | ⭐ | [Python](./day01/secretEntrance.py) | Dec 26, 2025 |
+| 1 | ⭐ | ⭐ | [Python](./day 1/secretEntrance.py) | Dec 26, 2025
+| 2 | ⭐ | ⭐ | [Python](./day02/giftShop.py) | Dec 28, 2025 |
 
 
 ## Repository Structure
 
 ```
 .
-├── day01/
+├── day 1/
 │   ├── input.txt
 │   ├── solution.py
 │   └── README.md
@@ -73,11 +74,11 @@ py day X/solutionFile.py
 
 ## Stats
 
-- **Language:** Python
-- **Stars Collected:**21/24 ⭐
-- **Days Completed:** 1/12
-- **Current Streak:** 🔥 2 day
+- **Languages:** Python
+- **Stars Collected:** 4/24 ⭐
+- **Days Completed:** 2/12
+- **Current Streak:** 🔥3 day
 
 ---
 
-⭐ **Latest Update:** Day 1, part 2 completed on December 26, 2025
+⭐ **Latest Update:** Day 2, part 2 completed on December 28, 2025
