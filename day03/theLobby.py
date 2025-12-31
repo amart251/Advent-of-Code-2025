@@ -33,17 +33,51 @@ def find_largest_two_digit(digits_str):
         return joltage_stack[0]
     return 0
 
+def find_more_batteries(digits_str):
+    i = 0
+    joltage_stack = []
+    if len(digits_str) < 13:
+        return 0
+    
+    while len(joltage_stack) < 12:
+
+        stack_limit = 12 - len(joltage_stack)
+        have = len(digits_str) - i
+        
+        if have < stack_limit:
+            joltage_stack.extend([int(d) for d in digits_str[i:]])
+            break
+
+        max_digit = -1
+        max_index = -1
+        for j in range(i, i + have - stack_limit + 1):
+            if int(digits_str[j]) > max_digit:
+                max_digit = int(digits_str[j])
+                max_index = j
+        
+        joltage_stack.append(max_digit)
+        i = max_index + 1
+    
+    if len(joltage_stack) == 12:
+        return int(''.join(str(d) for d in joltage_stack))
+    
+    return 0
+
 
 with open("input.txt", "r") as f:
     battery_bank = f.read().strip()
 lines = battery_bank.split()
 
+
 total_joltage = 0
+final_large_joltage = 0
 
 for line in lines:
     if line:
         largest_two_batteries = find_largest_two_digit(line.strip())
-        # print(f"{line} → {largest_two_batteries}")
+        largest_battery_set = find_more_batteries(line.strip())
         total_joltage += largest_two_batteries
+        final_large_joltage += largest_battery_set
 
-print(f"\nTotal output joltage is: {total_joltage}")
+print(f"Total output joltage from two batteries is: {total_joltage}")
+print(f"Total output joltage from 12 batteries is: {final_large_joltage}")

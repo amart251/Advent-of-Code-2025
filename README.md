@@ -6,7 +6,7 @@ Here are my solutions and progress for [Advent of Code 2025](https://adventofcod
 
 ## Progress Overview
 
-**5/24 ⭐ collected** (20% complete)
+**6/24 ⭐ collected** (25% complete)
 
 ```diff
          ____           *                               
@@ -14,7 +14,7 @@ ________/O___\__________|________________________   1 ⭐⭐
    _______||_________                                   
    | _@__ || _o_    |_ _________________________    2 ⭐⭐
    |_&_%__||_oo__^=_[ \|     _    .. .. ..     |        
-                     \_]__--|_|___[]_[]_[]__//_|    3 ⭐
+                     \_]__--|_|___[]_[]_[]__//_|    3 ⭐⭐
                                ____________//___        
 __________________________     | \        // @@|    4 
 |_  ___ | .--.           |     |_[#]_@@__//_@@@|        
@@ -42,7 +42,7 @@ _________||______ ______________________________   10
 |-----|:------:|:------:|----------|--------------|
 | 1 | ⭐ | ⭐ | [Python](./day 1/secretEntrance.py) | Dec 26, 2025
 | 2 | ⭐ | ⭐ | [Python](./day02/giftShop.py) | Dec 28, 2025 |
-| 3 | ⭐ |  | [Python](./day03/theLobby.py) | Dec 29, 2025 |
+| 3 | ⭐ | ⭐ | [Python](./day03/theLobby.py) | Dec 30, 2025 |
 
 
 ## Repository Structure
@@ -76,10 +76,10 @@ py day X/solutionFile.py
 ## Stats
 
 - **Languages:** Python
-- **Stars Collected:** 5/24 ⭐
-- **Days Completed:** 2/12
-- **Current Streak:** 🔥4 day
+- **Stars Collected:** 6/24 ⭐
+- **Days Completed:** 3/12
+- **Current Streak:** 🔥5 day
 
 ---
 
-⭐ **Latest Update:** Day 3, Part 1 completed on December 29, 2025
+⭐ **Latest Update:** Day 3, Part 2 completed on December 30, 2025
