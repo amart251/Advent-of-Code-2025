@@ -6,7 +6,7 @@ Here are my solutions and progress for [Advent of Code 2025](https://adventofcod
 
 ## Progress Overview
 
-**8/24 ⭐ collected** (34% complete)
+**10/24 ⭐ collected** (42% complete)
 
 ```diff
          ____           *                               
@@ -18,7 +18,7 @@ ________/O___\__________|________________________   1 ⭐⭐
                                ____________//___        
 __________________________     | \        // @@|    4 ⭐⭐
 |_  ___ | .--.           |     |_[#]_@@__//_@@@|        
-|_\_|^|_]_|==|_T_T_T_T_T_|                          5 
+|_\_|^|_]_|==|_T_T_T_T_T_|                          5 ⭐⭐
  ||   ____________    _______________________           
 _||__/            \_  |      |~             |       6 
 |   |   1  2  3    |  |     / \             |____       
@@ -43,7 +43,8 @@ _________||______ ______________________________   10
 | 1 | ⭐ | ⭐ | [Python](./day 1/secretEntrance.py) | Dec 26, 2025
 | 2 | ⭐ | ⭐ | [Python](./day02/giftShop.py) | Dec 28, 2025 |
 | 3 | ⭐ | ⭐ | [Python](./day03/theLobby.py) | Dec 30, 2025 |
-| 3 | ⭐ | ⭐ | [Python](./day03/printingDepartment.py) | Jan 2, 2026 |
+| 4 | ⭐ | ⭐ | [Python](./day04/printingDepartment.py) | Jan 2, 2026 |
+| 5 | ⭐ | ⭐ | [Python](./day05/cafeteria.py) | Jan 13, 2026 |
 
 
 ## Repository Structure
@@ -77,10 +78,8 @@ py day X/solutionFile.py
 ## Stats
 
 - **Languages:** Python
-- **Stars Collected:** 8/24 ⭐
-- **Days Completed:** 4/12
-- **Current Streak:** 🔥6 day
-
+- **Stars Collected:** 10/24 ⭐
+- **Days Completed:** 5/12
 ---
 
-⭐ **Latest Update:** Day 4, Part 2 completed on January 2nd, 2026
+⭐ **Latest Update:** Day 5, Part 2 completed on January 13th, 2026
