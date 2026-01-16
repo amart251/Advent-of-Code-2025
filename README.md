@@ -6,7 +6,7 @@ Here are my solutions and progress for [Advent of Code 2025](https://adventofcod
 
 ## Progress Overview
 
-**10/24 ⭐ collected** (42% complete)
+**12/24 ⭐ collected** (50% complete)
 
 ```diff
          ____           *                               
@@ -20,7 +20,7 @@ __________________________     | \        // @@|    4 ⭐⭐
 |_  ___ | .--.           |     |_[#]_@@__//_@@@|        
 |_\_|^|_]_|==|_T_T_T_T_T_|                          5 ⭐⭐
  ||   ____________    _______________________           
-_||__/            \_  |      |~             |       6 
+_||__/            \_  |      |~             |       6 ⭐⭐
 |   |   1  2  3    |  |     / \             |____       
 |___]__[]_[]_[]__<>|  |    |H_/|\   \\\\\\  | | |   7 
                       |<>__|H__|_\__|_____|_[_O_|       
@@ -45,6 +45,7 @@ _________||______ ______________________________   10
 | 3 | ⭐ | ⭐ | [Python](./day03/theLobby.py) | Dec 30, 2025 |
 | 4 | ⭐ | ⭐ | [Python](./day04/printingDepartment.py) | Jan 2, 2026 |
 | 5 | ⭐ | ⭐ | [Python](./day05/cafeteria.py) | Jan 13, 2026 |
+| 6 | ⭐ | ⭐ | [Python](./day06/trashCompactor.py) | Jan 15, 2026 |
 
 
 ## Repository Structure
@@ -78,8 +79,8 @@ py day X/solutionFile.py
 ## Stats
 
 - **Languages:** Python
-- **Stars Collected:** 10/24 ⭐
-- **Days Completed:** 5/12
+- **Stars Collected:** 12/24 ⭐
+- **Days Completed:** 6/12
 ---
 
-⭐ **Latest Update:** Day 5, Part 2 completed on January 13th, 2026
+⭐ **Latest Update:** Day 6, Part 2 completed on January 15th, 2026
